@@ -1,0 +1,74 @@
+.header {
+	background-color: #445162;
+	color: #fcfafa;
+	height: 325px;
+	text-align: center;
+ 	margin: 0;
+ 	box-sizing: border-box;
+ 	border-width: 0;
+ 	padding-top: 45px;
+ 	padding-bottom: 31px;
+}
+
+.picture {
+	border: 
+	border color: "White";
+}
+
+.header_text {
+	font-size: 36px;
+	line-height: 24px;
+	font-family: "Arial";
+	font-weight: 800;	
+}
+
+.header_text-2 {
+	font-size: 18px;
+	line-height: 24px;
+	font-family: "Arial";
+	font-weight: 400;	
+}
+
+.section {
+	font-size: 90%;
+	padding-top: 31px;
+	padding-bottom: 31px;
+	padding-left: 90px;
+	color: #445161;
+	margin: 30px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+
+.footer {
+	font-family: "Arial";
+	height: 230px;
+	background-color: #445162;
+	padding-top: 31px;
+	padding-bottom: 31px;
+	font-size: 150%;
+	color: #fcfafa;
+}
+
+.footer_text_1 {
+	color: #fcfafa;
+	padding-left: 90px;
+
+}
+
+.footer_text {
+	color: #fcfafa;
+	padding-left: 90px;
+	font-size: 83%;
+	display: inline;
+	margin-right: -50px;
+	word-wrap: break-word;
+}
+
+.img {
+	width: 20px;
+	height: 20px;
+	padding-left: 90px;
+	display: inline;
+	margin-right: -70px;
+}
