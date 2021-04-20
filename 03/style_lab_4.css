@@ -1,0 +1,48 @@
+.div_1 {
+	height: 40px;
+	width: 400px;
+	margin: 30px;
+	
+	border-top: 7px dotted green;
+	border-bottom: dashed red;
+	border-left: double black;
+	border-right: 10px solid blue;
+	
+	padding-top: 10px;
+	padding-left: 20px;
+	
+}
+
+.div_2 {
+	height: 40px;
+	width: 400px;
+	margin: 30px;	
+
+	border-bottom: 2px red solid;
+	text-align: center;
+}
+
+.div_3 {
+	height: 40px;
+	width: 400px;
+	margin: 30px;
+
+	border-left: 10px solid blue;
+	background-color: #e4fefe;
+	padding-top: 10px;
+	padding-left: 20px; 
+}
+
+.div_4 {
+	height: 40px;
+	width: 400px;
+	margin: 30px;	
+
+	padding-top: 10px;
+	padding-left: 20px; 
+
+	/* border: 1px solid black; */
+	box-shadow: 0 0 10px black;
+	border-radius: 10px;
+
+}
