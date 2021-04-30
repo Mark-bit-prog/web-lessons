@@ -11,8 +11,8 @@
 }
 
 .picture {
+	size: 30%;
 	border color: "White";
-	border: 10px;
 }
 
 .header_text {
