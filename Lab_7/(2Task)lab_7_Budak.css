@@ -1,0 +1,30 @@
+.block {
+	display: flex; 
+	width: 750px;
+}
+
+.block_1 {
+    display: flex;
+    width: 55px;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 1px inset rgb(0, 0, 0);
+    margin-right: 10px;
+    padding-right: 30px; 
+}
+
+
+.div_2 {
+   margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 30px;
+}
+
+
+.h1 {
+	margin: 0;
+}
+
+img {
+	height: 45px;
+}
