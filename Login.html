@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Логин</title>
+	<style type="text/css">
+		body {
+			font-family: Arial;
+			display: flex;
+			justify-content: center;
+
+			background-color: #3498db;
+		}
+
+		.login {
+			display: flex-inline;
+			justify-content: center;
+			text-align: center;
+
+			margin-top: 100px;
+
+			background-color: white;
+			border: solid white;
+			border-radius: 5px;
+			height: 400px;
+			width: 400px;
+
+			font-size: 20px;
+
+			color: Grey;
+			
+		}
+
+		input {
+			background-color: #ebf0f0;
+			border: none;
+			padding: 15px;
+
+			width: 270px;
+
+			font-size: 20px;
+			font-weight: bolder;
+			text-align: center;
+		}
+
+		.button {
+			width: 200px;
+			border: none;
+			padding: 15px;
+			font-size: 20px;
+		}
+
+		.link{
+			margin: 5px;
+			color: grey;
+			font-size: 15px;
+		}
+
+		button {
+			background-color: #3498db;
+			color: white;
+		}
+
+	</style>
+</head>
+<body>
+	<div class="login">
+		<h1>Login</h1>
+
+		<form class="form">
+			<input placeholder="username" type="text" name="auth">
+		</form>
+			<br>
+		<form class="form">
+			<input placeholder="password" type="password" name="pass">
+		</form>
+			<br>
+			<button class="button" type="submit">Submit</button>
+			<br>
+			<a class="link" href="#">Lost your password?</a>
+
+	</div>
+</body>
+</html>
